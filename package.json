@@ -16,6 +16,7 @@
     "@strapi/provider-upload-cloudinary": "^5.1.1",
     "@strapi/strapi": "5.1.1",
     "pg": "8.8.0",
+    "punycode": "^2.3.1",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-router-dom": "^6.0.0",

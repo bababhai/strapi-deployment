@@ -5,8 +5,5 @@
     "target": "ES2021",
     "checkJs": true,
     "allowJs": true
-  },
-  "exclude": [
-    "**/*.js"  // Exclude all .js files
-  ]
+  }
 }
